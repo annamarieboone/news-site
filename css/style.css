@@ -32,6 +32,7 @@ span a {
 	margin: 10px 0px 15px 0px;
 	padding-bottom: 50px;
 	border-bottom: 1px solid #bababa;
+	background-color: blue;
 
 }
 
@@ -107,15 +108,12 @@ h3 {
 	line-height: 23px;
 }
 
-ol {
+.list {
 	list-style: decimal;
 	font-family: 'Lato', sans-serif;
 	font-size: 13px;
 	line-height: 23px;
 	text-decoration: none;
-}
-
-ol li{
 	border-bottom: 1px solid #bababa;
 	padding: 5px 0px 5px 0px;
 }
